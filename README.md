@@ -77,7 +77,7 @@ Below are the available Jupyter notebooks. Click the badge to launch each one di
 - Credits for the exercise solutions: [Telmo Correa](https://github.com/telmo-correa/all-of-statistics)
 
 <table width='100%'>
-<td><img src='images/PDSH-COVER.PNG' width=250></td>
-  <td><img src='images/OReilly-english.jpg' width=255></td>
-  <td><img src='images/aos.jpg' width=220></td>
+<td><img src='images/PDSH-COVER.PNG' width=220></td>
+  <td><img src='images/OReilly-english.jpg' width=220></td>
+  <td><img src='images/aos.jpg' width=190></td>
 </table>
