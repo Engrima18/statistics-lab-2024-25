@@ -8,8 +8,10 @@ Hands-on session on Python basics for Statistics for the course of Probability a
 ```bash
 statistics-lab-2024-25/
 │
-├── Numpy/
-│ ├── data/ # sample datasets used in the NumPy tutorials
+├── images/
+│
+├── numpy/
+│ ├── data/
 │ ├── figures/
 │ ├── 01-Introduction-to-numpy.ipynb
 │ ├── 02-Understanding-types.ipynb
@@ -20,8 +22,8 @@ statistics-lab-2024-25/
 │ ├── 07-Boolean-arrays-and-masks.ipynb
 │ └── 08-Fancy-indexing.ipynb
 │
-├── Stats/
-│ ├── data/ # sample datasets used in the NumPy tutorials
+├── statistics/
+│ ├── data/
 │ ├── 01-Exploratory-data-analysis.ipynb
 │ ├── 02-Expectation.ipynb
 │ ├── 03-Inequalities.ipynb
@@ -69,6 +71,38 @@ Below are the available Jupyter notebooks. Click the badge to launch each one di
 
 
 ---
+
+## 🖥️ Instruction to locally run notebooks
+
+If you want to locally run the lab notebooks, we recommend using uv package manager to easly handle all the project dependencies.
+
+### 1. Clone this repository
+
+Use git machine to clone the repository on your machine
+
+```bash
+git clone https://github.com/Engrima18/statistics-lab-2024-25
+```
+
+Then move in the cloned repository
+
+```bash
+cd statistics-lab-2024-25
+```
+
+### 2. Install uv
+
+Using `uv` package manager is highly recommended, but you can equivalently opt for `pip`. [`uv`](https://github.com/astral-sh/uv) is a modern Python package manager that is significantly faster than `pip`. To install `uv`, follow the instructions from the [official installation guide](https://github.com/astral-sh/uv#installation).  
+
+### 3. Set up the environment and install dependencies  
+
+Run the following command in the repository root folder:  
+
+```bash
+uv sync
+```
+
+Now you are ready to open a notebook in your preferred editor and enjoy coding!
 
 ## ⚠️ Disclaimer
 
