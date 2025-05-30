@@ -41,7 +41,7 @@ Below are the available Jupyter notebooks. Click the badge to launch each one di
 
 ### Numpy tutorial
 
-1. **NumPy Intro** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Engrima18/statistics-lab-2024-25/blob/main/numpy/01-numpy_basics.ipynb)
+1. **NumPy Intro** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Engrima18/statistics-lab-2024-25/blob/main/numpy/01-Introduction-to-numpy.ipynb)
 
 2. **Numpy Basics and Types** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Engrima18/statistics-lab-2024-25/blob/main/numpy/02-Understanding-types.ipynb)
 
